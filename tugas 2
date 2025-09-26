@@ -1,0 +1,33 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package praktikumalprokom_klmk9;
+
+/**
+ *
+ * @author LAB_KOMPUTAS_12
+ */
+public class PraktikumAlprokom_klmk9 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        System.out.println("DATA DIRIKU ANJAY");
+        String x = "Meuthi'ah Fatma amir";
+        char y = 'M';
+        Long z = 5002251160L;
+        String k = "19";
+        String L = "Algoritma dan Pemrograman 1 (A)";
+        Boolean M = true;
+        
+        System.out.println("Nama = " +x);
+        System.out.println("Inisial = " +y);
+        System.out.println("NRP = " +z);
+        System.out.println("Usia = " + k);
+        System.out.println("Kelas = " + L);
+        System.out.println("Status Keaktifan = " + M);
+    }
+    
+}
