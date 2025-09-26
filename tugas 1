@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package praktikumalprokom_klmk9;
+
+/**
+ *
+ * @author LAB_KOMPUTAS_12
+ */
+public class PraktikumKonversiSuhu_klmp9 {
+    public static void main(String[] args) {
+    int c = 50;
+    int k = c + 273;
+    double r = 4.0/5*c;
+    double F = 9.0/5*c+32;
+    
+    System.out.println("Suhu dalam Celsius : " +c);
+    System.out.println("Suhu dalam Kelvin : " +k);
+    System.out.println("Suhu dalam Reamur : " +r);
+    System.out.println("Suhu dalam Fahrenheit : " +F);
+    }
+    
+}
